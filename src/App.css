@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url("https://wallpaperaccess.com/full/2984631.png");
+  background-image: url(/src/dirt-background.png);
   background-color: orange;
   font-family: minecraftFont;
   height: 100vh;
